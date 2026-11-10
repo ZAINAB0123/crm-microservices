@@ -1,0 +1,3 @@
+rootProject.name = 'CRM_PROJECT'
+include 'auth-service'
+
